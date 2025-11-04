@@ -16,7 +16,7 @@ Python 3.10+
 Streamlit — веб-интерфейс
 OpenAI API — обработка и анализ задач
 
-# 1. Клонировать проект или скачать файл[
+# 1. Клонировать проект
 git clone https://github.com/Bauka1/LifePlanner.git
 cd LifePlanner
 
